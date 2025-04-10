@@ -138,11 +138,13 @@ shell:> guess 10
 
 mvn clean package
 Ejecutar el JAR:
-Una vez que el JAR se haya creado (por ejemplo, Number_Guessing-0.0.1-SNAPSHOT.jar), ejecútalo con Java:
 ```
+Una vez que el JAR se haya creado (por ejemplo, Number_Guessing-0.0.1-SNAPSHOT.jar), ejecútalo con Java:
+
 ```Bash
 
 java -jar target/Number_Guessing-0.0.1-SNAPSHOT.jar
-(Asegúrate de reemplazar Number_Guessing-0.0.1-SNAPSHOT.jar con el nombre exacto del archivo generado en tu directorio target/).
 ```
+(Asegúrate de reemplazar Number_Guessing-0.0.1-SNAPSHOT.jar con el nombre exacto del archivo generado en tu directorio target/).
+
 ¡La aplicación se iniciará en tu terminal y podrás empezar a jugar! 🎉
