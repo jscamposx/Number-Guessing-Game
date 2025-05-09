@@ -33,7 +33,7 @@ Number_Guessing/
     │   │           │   ├── GameState.java              # 📊 Representa el estado actual del juego (número secreto, intentos, etc.)
     │   │           │   └── GuessResult.java            # 🎯 Resultado de un intento (alto, bajo, correcto)
     │   │           ├── service/
-    │   │           │   └── GameService.java            # <0xF0><0x9F><0xA7><0xAD> Lógica central del juego (procesar intentos)
+    │   │           │   └── GameService.java            # Lógica central del juego (procesar intentos)
     │   │           └── utils/
     │   │               └── HintGenerator.java          # 🤔 Generador de pistas aleatorias
     │   └── resources/
